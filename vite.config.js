@@ -10,7 +10,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'), // Cấu hình @ → src/
     },
   },
-  base: '/Development-of-a-teaching-assignment-management-system-for-high-schools/'
+  base: '/Thesis-UI-demo/'
 })
 
 
